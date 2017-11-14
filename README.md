@@ -3,8 +3,7 @@
 a [Sails](http://sailsjs.org) application
 
 To Run the Project
-1. Clone the repo
-<br>
+1. Clone the repo<br>
 2. Run npm install
 <br>
 3. Start Sails Application
